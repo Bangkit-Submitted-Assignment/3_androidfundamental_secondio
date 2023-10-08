@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_name">nama_user\n</string>
+    <string name="searchbar_hint">Masukkan User</string>
+
+</resources>
